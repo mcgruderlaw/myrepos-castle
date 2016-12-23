@@ -1,0 +1,33 @@
+
+[.homesick/repos/bash-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/bash-castle.git' 'bash-castle'
+
+[.homesick/repos/dotfiles]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/dotfiles.git' 'dotfiles'
+
+[.homesick/repos/homeshick-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/git-castle.git' 'git-castle'
+
+[.homesick/repos/homeshick]
+checkout = homeshick clone 'git://github.com/andsens/homeshick.git' 'homeshick'
+
+[.homesick/repos/mozilla-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/mozilla-castle.git' 'mozilla-castle'
+
+[.homesick/repos/mpd-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/mpd-castle.git' 'mpd-castle'
+
+[.homesick/repos/mplayer-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/mplayer-castle.git' 'mplayer-castle'
+
+[.homesick/repos/mutt-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/mutt-castle.git' 'mutt-castle'
+
+[.homesick/repos/tmux-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/tmux-castle.git' 'tmux-castle'
+
+[.homesick/repos/vim-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/vim-castle.git' 'vim-castle'
+
+[.homesick/repos/x-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/x-castle.git' 'x-castle'
