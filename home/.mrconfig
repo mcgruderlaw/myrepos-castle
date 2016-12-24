@@ -10,12 +10,15 @@ checkout = homeshick clone 'git://github.com/andsens/homeshick.git' 'homeshick'
 
 [.homesick/repos/mozilla-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/mozilla-castle.git' 'mozilla-castle'
+skip = lazy
 
 [.homesick/repos/mpd-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/mpd-castle.git' 'mpd-castle'
+skip = lazy
 
 [.homesick/repos/mplayer-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/mplayer-castle.git' 'mplayer-castle'
+skip = lazy
 
 [.homesick/repos/mutt-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/mutt-castle.git' 'mutt-castle'
@@ -28,6 +31,7 @@ checkout = homeshick clone 'git@github.com:mcgruderlaw/vim-castle.git' 'vim-cast
 
 [.homesick/repos/x-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/x-castle.git' 'x-castle'
+skip = lazy
 
 [.homesick/repos/myrepos-castle]
 checkout = git clone 'git@github.com:mcgruderlaw/myrepos-castle.git' 'myrepos-castle'
