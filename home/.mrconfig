@@ -5,9 +5,6 @@ checkout = homeshick clone 'git@github.com:mcgruderlaw/bash-castle.git' 'bash-ca
 [.homesick/repos/dotfiles]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/dotfiles.git' 'dotfiles'
 
-[.homesick/repos/homeshick-castle]
-checkout = homeshick clone 'git@github.com:mcgruderlaw/git-castle.git' 'git-castle'
-
 [.homesick/repos/homeshick]
 checkout = homeshick clone 'git://github.com/andsens/homeshick.git' 'homeshick'
 
@@ -31,3 +28,6 @@ checkout = homeshick clone 'git@github.com:mcgruderlaw/vim-castle.git' 'vim-cast
 
 [.homesick/repos/x-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/x-castle.git' 'x-castle'
+
+[.homesick/repos/myrepos-castle]
+checkout = git clone 'git@github.com:mcgruderlaw/myrepos-castle.git' 'myrepos-castle'
