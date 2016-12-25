@@ -3,7 +3,7 @@
 checkout = homeshick clone 'git@github.com:mcgruderlaw/bash-castle.git' 'bash-castle'
 
 [.homesick/repos/dotfiles]
-checkout = homeshick clone 'git@github.com:mcgruderlaw/dotfiles.git' 'dotfiles'
+checkout = git clone 'git@github.com:mcgruderlaw/dotfiles.git' 'dotfiles'
 
 [.homesick/repos/homeshick]
 checkout = homeshick clone 'git://github.com/andsens/homeshick.git' 'homeshick'
