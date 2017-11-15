@@ -34,11 +34,11 @@ checkout = homeshick clone 'git@github.com:mcgruderlaw/x-castle.git' 'x-castle'
 skip = lazy
 
 [.homesick/repos/myrepos-castle]
-checkout = git clone 'git@github.com:mcgruderlaw/myrepos-castle.git' 'myrepos-castle'
+checkout = homeshick clone 'git@github.com:mcgruderlaw/myrepos-castle.git' 'myrepos-castle'
 
-[.homesick/repos/git-castle]
-checkout = git clone 'git@github.com:mcgruderlaw/git-castle.git' 'git-castle'
+[.homesick/repos/homeshick-castle]
+checkout = homeshick clone 'git@github.com:mcgruderlaw/git-castle.git' 'git-castle'
 
 [.homesick/repos/nb-castle]
-checkout = git clone 'git@github.com:mcgruderlaw/nb-castle.git' 'nb-castle'
+checkout = homeshick clone 'git@github.com:mcgruderlaw/nb-castle.git' 'nb-castle'
 skip = lazy
