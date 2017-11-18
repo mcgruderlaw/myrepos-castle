@@ -36,7 +36,7 @@ skip = lazy
 [.homesick/repos/myrepos-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/myrepos-castle.git' 'myrepos-castle'
 
-[.homesick/repos/homeshick-castle]
+[.homesick/repos/git-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/git-castle.git' 'git-castle'
 
 [.homesick/repos/nb-castle]
