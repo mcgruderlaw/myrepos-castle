@@ -1,3 +1,5 @@
+[DEFAULT]
+update = git pull origin master
 
 [.homesick/repos/bash-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/bash-castle.git' 'bash-castle'
