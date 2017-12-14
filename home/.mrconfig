@@ -44,3 +44,6 @@ checkout = homeshick clone 'git@github.com:mcgruderlaw/git-castle.git' 'git-cast
 [.homesick/repos/nb-castle]
 checkout = homeshick clone 'git@github.com:mcgruderlaw/nb-castle.git' 'nb-castle'
 skip = lazy
+
+[.bin]
+#checkout = git clone ssh://dmc@23.124.48.21/home/dmc/.bin 
