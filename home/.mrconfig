@@ -46,4 +46,13 @@ checkout = homeshick clone 'git@github.com:mcgruderlaw/nb-castle.git' 'nb-castle
 skip = lazy
 
 [.bin]
-#checkout = git clone ssh://dmc@23.124.48.21/home/dmc/.bin 
+checkout = 'git clone git@bitbucket.org:sololittle/.bin.git' '.bin'
+
+[Documents/documents]
+checkout = git clone 'git@bitbucket.org:sololittle/documents.git' 'documents'
+
+[Media/media]
+checkout = git clone 'git@bitbucket.org:sololittle/media.git' 'media'
+
+[notes]
+checkout = git clone 'git@bitbucket.org:sololittle/notes.git' 'notes'
