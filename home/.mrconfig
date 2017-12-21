@@ -56,3 +56,9 @@ checkout = git clone 'git@bitbucket.org:sololittle/media.git' 'media'
 
 [notes]
 checkout = git clone 'git@bitbucket.org:sololittle/notes.git' 'notes'
+
+[ofc/ltr]
+checkout = git clone 'git@bitbucket.org:sololittle/ltr.git' 'ltr'
+
+[ofc/capdocs]
+checkout = git clone 'git@bitbucket.org:sololittle/capdocs.git' 'capdocs'
